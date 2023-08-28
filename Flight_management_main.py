@@ -10,7 +10,6 @@ It also implements error handling for the inputs and a variety of messageboxes f
 import datetime
 from tkinter import *
 import tkinter.messagebox as mb
-from tkinter import ttk
 from tkcalendar import DateEntry  # pip install tkcalendar
 from tktimepicker import AnalogPicker, AnalogThemes
 import sqlite3
